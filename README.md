@@ -2,7 +2,7 @@
 
 #### {About David Hashisoma.}, {4/12/2020}
 
-#### By **{There were no contributors apart from Regina Wangui only.}**
+#### By **{There were no contributors apart from David Hashisoma only.}**
 
 ## Description
 ## Setup/Information
