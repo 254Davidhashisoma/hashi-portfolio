@@ -1,4 +1,4 @@
-# {About Regina Wangui}
+# {About David Hashisoma}
 
 #### {About Regina Wangui.}, {4/12/2020}
 
@@ -29,5 +29,5 @@
 ### License
 
 {MIT License
-Copyright (c) 2020 Regina Wangui}
+Copyright (c) 2021 David Hashisoma}
 # hashi-portfolio
