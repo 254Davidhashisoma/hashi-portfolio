@@ -8,7 +8,7 @@
 ## Setup/Information
 
 - The website has a Home and About button used to scroll through.
-- The home page has information on github projects by Regina Wangui.
+- The home page has information on github projects by David Hashisoma.
 - The About page Has brief information of David Hashisoma Background.
 - The github project names are directly linked to their github links.
 - Once the github project names in red are clicked they redirect directly to the github links.
